@@ -5,4 +5,4 @@ Update May 2020:
 + Autostart function
 + Some fixes
 
-![alt text](thumbnail.png | width=100)
+<img src="thumbnail.png" width="768" height="432" />
