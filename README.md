@@ -5,4 +5,4 @@ Update May 2020:
 + Autostart function
 + Some fixes
 
-![alt text](thumbnail.png)
+![alt text](thumbnail.png | width=100)
